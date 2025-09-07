@@ -1,0 +1,10 @@
+{
+	"welcome": "非利益（無料）のミニゲーム集へようこそ！Enjoy!",
+	"random_completely": "完全にランダム",
+	"random_completely_desc": "ただひたすら，10000分の1の確率で当たりが出るまでクリックし続けるゲームです。<br>運が良ければ，1回目で当たりが出るかも？",
+	
+	"about_para1": "このサイトは，非利益（無料）のミニゲーム集です。<br>もしよければ，X（旧Twitter）でシェアしていただけると嬉しいです！",
+	"share_on_x": "Xでシェアする",
+	"x_share_url": "https://twitter.com/intent/tweet?text=ミニゲーム集を見つけたよ！みんなもやろう！%0Ahttps%3A%2F%2Fmini-games.vercel.app%2F%0A%0A%23ミニゲーム%20%23無料ゲーム%20%23暇つぶし",
+	"this_app_use": "このサイトは，以下の技術を使用して作成されています。"
+}
