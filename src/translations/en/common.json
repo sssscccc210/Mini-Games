@@ -2,7 +2,8 @@
 	"welcome": "Welcome to the Non-profit (Free) Mini Game Collection! Enjoy!",
 	"random_completely": "Completely Random",
 	"random_completely_desc": "This is a game where you simply keep clicking until you hit the jackpot with a 1 in 1,000 chance.<br>If you're lucky, you might win on the very first try!",
-	
+	"you_clicked_the_button": "You clicked the button ",
+	"count_times": "times.",
 	"about_para1": "This site is a non-profit (free) collection of mini games.<br>If you like it, we’d be happy if you shared it on X (formerly Twitter)!",
 	"share_on_x": "Share on X",
 	"x_share_url": "https://twitter.com/intent/tweet?text=I%20found%20a%20collection%20of%20mini-games!%20Let's%20all%20play!%0Ahttps%3A%2F%2Fsssscccc210.github.io%2FMini-Games%2F%0A%0A%23MiniGames%20%23FreeGames%20%23KillingTime",

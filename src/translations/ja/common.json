@@ -2,6 +2,8 @@
 	"welcome": "非利益（無料）のミニゲーム集へようこそ！Enjoy!",
 	"random_completely": "完全にランダム",
 	"random_completely_desc": "ただひたすら，1000分の1の確率で当たりが出るまでクリックし続けるゲームです。<br>運が良ければ，1回目で当たりが出るかも？",
+	"you_clicked_the_button": "ボタンをクリックした回数：",
+	"count_times": "回",
 	
 	"about_para1": "このサイトは，非利益（無料）のミニゲーム集です。<br>もしよければ，X（旧Twitter）でシェアしていただけると嬉しいです！",
 	"share_on_x": "Xでシェアする",
