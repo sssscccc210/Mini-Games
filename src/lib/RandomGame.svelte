@@ -14,9 +14,9 @@
 </script>
 
 
-<div class="bg-violet-200 w-3xl max-w-full h-50 items-center text-center content-center p-6">
+<div class="bg-violet-200 w-3xl max-w-full h-fit min-h-50 max-h-full items-center text-center content-center p-6">
   {#if clear}
-    <h1 class="text-4xl font-bold mb-4 text-green-600">🎉 Congratulations! You Win! 🎉</h1>
+    <h1 class="text-3xl sm:text-4xl font-bold mb-4 text-green-600">🎉<br>Congratulations!<br>You Win!</h1>
     <p class="text-lg mb-4">You clicked the button {count} times.</p>
   {:else}
     <h1 class="text-3xl mb-4">CLICK!</h1>

@@ -42,7 +42,7 @@
 </script>
 
 <!-- モーダルコンテナ (非表示状態) -->
-<div bind:this={modalContainer} class="hidden fixed h-dvh w-dvw top-0 bg-black/80 flex justify-center items-center p-4 transition-opacity duration-300">
+<div bind:this={modalContainer} class="hidden touch-manipulation fixed h-dvh w-dvw top-0 bg-black/80 flex justify-center items-center p-4 transition-opacity duration-300">
     
     <!-- モーダルコンテンツ -->
     <div bind:this={modalContent} class="bg-white p-8 rounded-2xl shadow-2xl container transform transition-all w-fit min-w-dvw lg:min-w-5xl aspect-video">
