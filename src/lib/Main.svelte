@@ -2,7 +2,7 @@
     import { t } from '../translations/translations';
     import showModalStore from '../js/showModalStore';
     import currentGameStore from '../js/currentGameStore';
-    import RandomGame from './RandomGame.svelte';
+    import RandomGame from './games/RandomGame.svelte';
 
     const GAME_COMPONENTS = [
         {
